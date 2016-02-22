@@ -1,0 +1,6 @@
+%{"base64url": {:hex, :base64url, "0.0.1"},
+  "guardian": {:hex, :guardian, "0.9.1"},
+  "jose": {:hex, :jose, "1.6.1"},
+  "plug": {:hex, :plug, "1.1.1"},
+  "poison": {:hex, :poison, "1.5.2"},
+  "uuid": {:hex, :uuid, "1.1.3"}}
